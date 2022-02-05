@@ -1,0 +1,1 @@
+# You-can-also-open-the-Query-Editor-by-selecting-Edit-Queries-from-the-Home-ribbon-in-Power-BI-Deskto
